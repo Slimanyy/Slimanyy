@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulquddus
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning python django
+- 💞️ I’m looking to collaborate on python and django projects
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
 <!---
