@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdulquddus
 - 👀 I’m learning python
-- 🌱 I’m currently learning python flask anddjango
-- 💞️ I’m looking to collaborate on python , flask and django projects
+- 💞️ I am open to collaborations on python , flask and django projects
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
 <!---
