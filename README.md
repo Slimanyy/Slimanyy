@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abdulquddus
-- 👀 A Software Engineer
-- 💞️ I am open to collaborations on python, flask, django, scrpting and devops projects
+- 👋 Hi, I’m ![Abdulquddus](https://img.shields.io/badge/Docker-009639?style=for-the-badge&logo=Abdulquddus&logoColor=white)
+- 👀 ![A Software Engineer](https://img.shields.io/badge/Software Engineer-009639?style=for-the-badge&logo=Software Engineer&logoColor=white)
+- 💞️ I am open to collaborations on python, flask, django and devops projects
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
 ## LANGUAGES
@@ -23,7 +23,7 @@
 ## Worked with the following
 
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,14 +36,16 @@
 ## Database
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite--FFD43B?style=for-the-badge&logo=sqlite&logoColor=blue)
+![postgresql](https://img.shields.io/badge/PostgreSQL-%237F5AB6.svg?&style=for-the-badge&logo=gnu-postgresql&logoColor=white)
 
 ## Most used languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slimanyy&theme=tokyonight)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slimanyy&theme=tokyonight)
 
-[![Slimanyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slimanyy&theme=tokyonight)]
+## Github stats
+
+![Slimanyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slimanyy&theme=tokyonight)
 
 <!---
 Slimanyy/Slimanyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
