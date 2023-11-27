@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulquddus
-- 👀 A Software Engineer
-- 💞️ I am open to collaborations on python, flask, django, scrpting and devops projects
+- 👀 A Software Engineer || Petroleum and Gas Engineer
+- Alumni @alx_africa SWE with specializations in backend engineering 
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
 ## LANGUAGES
