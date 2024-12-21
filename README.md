@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulquddus
-- 👀 A Software Engineer || Petroleum and Gas Engineer
+- 👀 A Software Engineer
 - Alumni @alx_africa SWE with specializations in backend engineering 
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
