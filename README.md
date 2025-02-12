@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulquddus
 - 👀 A Software Engineer
-- Alumni @alx_africa SWE with specializations in backend engineering 
+- Alumni @alx_africa SE with specializations in backend engineering 
 - 📫 You can reach me on aabdulqudduss@gmail.com
 
 ## LANGUAGES
